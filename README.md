@@ -7,4 +7,24 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2402-meeting-rooms-iii) |
+## Hash Table
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2402-meeting-rooms-iii) |
+## Sorting
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2402-meeting-rooms-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2402-meeting-rooms-iii) |
+## Simulation
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
