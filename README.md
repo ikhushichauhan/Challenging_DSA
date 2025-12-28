@@ -7,6 +7,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -27,4 +28,12 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2402-meeting-rooms-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
