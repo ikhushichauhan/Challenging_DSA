@@ -8,6 +8,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | ------- |
 | [0009-palindrome-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -46,4 +48,12 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0756-pyramid-transition-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
