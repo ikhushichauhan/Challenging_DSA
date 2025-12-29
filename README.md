@@ -15,6 +15,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Hash Table
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0756-pyramid-transition-matrix) |
 | [2402-meeting-rooms-iii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2402-meeting-rooms-iii) |
 ## Sorting
 |  |
@@ -32,8 +33,17 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0231-power-of-two) |
+| [0756-pyramid-transition-matrix](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0756-pyramid-transition-matrix) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0756-pyramid-transition-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
