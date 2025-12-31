@@ -11,6 +11,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0509-fibonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0509-fibonacci-number) |
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
 | [1137-n-th-tribonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1518-water-bottles](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1518-water-bottles) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -60,4 +61,8 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
