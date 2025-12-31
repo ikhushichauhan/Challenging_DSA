@@ -10,6 +10,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0231-power-of-two](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0509-fibonacci-number) |
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
+| [0989-add-to-array-form-of-integer](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1518-water-bottles) |
 ## Bit Manipulation
@@ -36,6 +37,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | ------- |
 | [0001-two-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0001-two-sum) |
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
+| [0989-add-to-array-form-of-integer](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Hash Table
 |  |
