@@ -9,6 +9,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0009-palindrome-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0509-fibonacci-number) |
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
 | [0989-add-to-array-form-of-integer](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -18,6 +19,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +41,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0001-two-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -48,6 +51,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Matrix
@@ -59,6 +63,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Depth-First Search
 |  |
@@ -79,6 +84,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
