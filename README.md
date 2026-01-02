@@ -43,6 +43,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0027-remove-element](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -105,4 +106,8 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0027-remove-element](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
