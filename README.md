@@ -40,6 +40,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | ------- |
 | [0001-two-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
@@ -94,4 +95,8 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
