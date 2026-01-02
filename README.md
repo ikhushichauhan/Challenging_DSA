@@ -40,6 +40,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0004-median-of-two-sorted-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -48,6 +49,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | ------- |
 | [0001-two-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0001-two-sum) |
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Matrix
 |  |
 | ------- |
