@@ -30,6 +30,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | ------- |
 | [0509-fibonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Memoization
 |  |
 | ------- |
