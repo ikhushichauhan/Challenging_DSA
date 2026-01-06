@@ -17,6 +17,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [1137-n-th-tribonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1390-four-divisors](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1390-four-divisors) |
 | [1518-water-bottles](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1518-water-bottles) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,6 +64,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [1800-maximum-ascending-subarray-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1975-maximum-matrix-sum) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +73,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -152,4 +155,8 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 <!---LeetCode Topics End-->
