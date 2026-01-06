@@ -89,10 +89,12 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Depth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
@@ -142,4 +144,12 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
