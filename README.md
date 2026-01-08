@@ -35,6 +35,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0509-fibonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Memoization
 |  |
 | ------- |
@@ -61,6 +62,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0989-add-to-array-form-of-integer](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1390-four-divisors](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
