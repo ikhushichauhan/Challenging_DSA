@@ -36,6 +36,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [1137-n-th-tribonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Memoization
 |  |
 | ------- |
@@ -68,6 +69,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1975-maximum-matrix-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Hash Table
 |  |
@@ -140,6 +142,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0238-product-of-array-except-self) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Brainteaser
 |  |
 | ------- |
@@ -176,4 +179,16 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2211-count-collisions-on-a-road) |
+## Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Sliding Window
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
