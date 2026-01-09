@@ -77,6 +77,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0001-two-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -98,12 +99,14 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Depth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
@@ -160,11 +163,13 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Geometry
