@@ -8,7 +8,6 @@ class Solution {
         int maxArea = 0;
 
         for (int i = 0; i < rows; i++) {
-            // Build histogram
             for (int j = 0; j < cols; j++) {
                 if (matrix[i][j] == '1') {
                     heights[j]++;
@@ -16,7 +15,6 @@ class Solution {
                     heights[j] = 0;
                 }
             }
-            // Largest rectangle in histogram
             maxArea = Math.max(maxArea, largestRectangleArea(heights));
         }
         return maxArea;
