@@ -15,6 +15,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
 | [0989-add-to-array-form-of-integer](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1390-four-divisors) |
 | [1518-water-bottles](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1518-water-bottles) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -64,6 +65,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0989-add-to-array-form-of-integer) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -179,6 +181,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## String
 |  |
