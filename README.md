@@ -74,6 +74,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1975-maximum-matrix-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3453-separate-squares-i](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3453-separate-squares-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Hash Table
@@ -102,6 +103,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0704-binary-search) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3453-separate-squares-i](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3453-separate-squares-i) |
 ## Depth-First Search
 |  |
 | ------- |
