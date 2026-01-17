@@ -18,6 +18,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [1266-minimum-time-visiting-all-points](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1390-four-divisors) |
 | [1518-water-bottles](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1518-water-bottles) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Bit Manipulation
@@ -75,6 +76,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [1975-maximum-matrix-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1975-maximum-matrix-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3454-separate-squares-ii) |
@@ -190,6 +192,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## String
 |  |
