@@ -36,6 +36,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -211,6 +212,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0022-generate-parentheses) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [2211-count-collisions-on-a-road](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Stack
@@ -246,4 +248,8 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
