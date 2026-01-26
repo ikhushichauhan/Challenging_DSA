@@ -167,6 +167,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0011-container-with-most-water](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -213,6 +214,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0125-valid-palindrome) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [2211-count-collisions-on-a-road](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Stack
