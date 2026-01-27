@@ -254,4 +254,8 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
