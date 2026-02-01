@@ -31,6 +31,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -265,4 +266,5 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
