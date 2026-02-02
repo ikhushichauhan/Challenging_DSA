@@ -129,6 +129,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -201,12 +202,14 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -227,6 +230,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [2211-count-collisions-on-a-road](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Queue
 |  |
