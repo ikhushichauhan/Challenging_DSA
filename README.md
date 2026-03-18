@@ -67,6 +67,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0622-design-circular-queue](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
@@ -256,6 +257,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0622-design-circular-queue) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Sliding Window
 |  |
@@ -292,6 +294,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0092-reverse-linked-list-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0203-remove-linked-list-elements) |
+| [0622-design-circular-queue](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0622-design-circular-queue) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -300,4 +303,8 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
