@@ -69,6 +69,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0349-intersection-of-two-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0622-design-circular-queue](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0735-asteroid-collision) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -155,6 +156,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0735-asteroid-collision) |
 | [1518-water-bottles](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1518-water-bottles) |
 | [2211-count-collisions-on-a-road](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Sorting
@@ -253,6 +255,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0735-asteroid-collision](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Queue
 |  |
