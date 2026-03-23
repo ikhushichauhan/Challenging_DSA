@@ -249,6 +249,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0125-valid-palindrome](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2211-count-collisions-on-a-road](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Stack
 |  |
@@ -256,6 +257,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0085-maximal-rectangle](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0735-asteroid-collision) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2211-count-collisions-on-a-road](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Queue
 |  |
