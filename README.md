@@ -26,6 +26,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | ------- |
 | [0231-power-of-two](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0287-find-the-duplicate-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Recursion
@@ -65,6 +66,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0622-design-circular-queue](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0622-design-circular-queue) |
@@ -128,6 +130,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0162-find-peak-element](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0704-binary-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -191,6 +194,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0141-linked-list-cycle](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
