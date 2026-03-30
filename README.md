@@ -65,6 +65,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0088-merge-sorted-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -168,6 +169,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -180,12 +182,14 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -337,4 +341,8 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
