@@ -257,6 +257,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0125-valid-palindrome) |
@@ -267,6 +268,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0735-asteroid-collision) |
