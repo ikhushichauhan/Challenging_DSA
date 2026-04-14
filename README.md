@@ -169,6 +169,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -189,6 +190,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0912-sort-an-array) |
 ## Two Pointers
@@ -201,6 +203,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0088-merge-sorted-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -313,6 +316,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0622-design-circular-queue](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0622-design-circular-queue) |
 ## Binary Search Tree
@@ -330,6 +334,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
