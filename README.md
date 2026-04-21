@@ -92,6 +92,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [1895-largest-magic-square](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -229,6 +230,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0334-increasing-triplet-subsequence](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Counting
 |  |
 | ------- |
