@@ -72,6 +72,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0287-find-the-duplicate-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0735-asteroid-collision) |
