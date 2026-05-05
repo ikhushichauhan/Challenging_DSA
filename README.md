@@ -75,6 +75,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0485-max-consecutive-ones](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0735-asteroid-collision) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
@@ -221,6 +222,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1895-largest-magic-square) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
