@@ -69,6 +69,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -195,6 +196,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
@@ -304,15 +306,18 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0622-design-circular-queue) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0239-sliding-window-maximum) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0239-sliding-window-maximum) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Stack
 |  |
