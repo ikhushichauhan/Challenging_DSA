@@ -101,6 +101,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3046-split-the-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3046-split-the-array) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -122,6 +123,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [1394-find-lucky-integer-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3046-split-the-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3046-split-the-array) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Matrix
 |  |
@@ -251,6 +253,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3046-split-the-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3046-split-the-array) |
 ## Tree
 |  |
 | ------- |
