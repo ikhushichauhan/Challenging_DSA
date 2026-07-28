@@ -29,6 +29,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0231-power-of-two](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0287-find-the-duplicate-number) |
+| [1720-decode-xored-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1720-decode-xored-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Recursion
@@ -93,6 +94,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1720-decode-xored-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1720-decode-xored-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1895-largest-magic-square) |
