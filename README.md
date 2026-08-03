@@ -94,6 +94,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1720-decode-xored-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1720-decode-xored-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -240,6 +241,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0238-product-of-array-except-self](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1895-largest-magic-square](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1895-largest-magic-square) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
