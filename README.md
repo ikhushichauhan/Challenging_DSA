@@ -10,6 +10,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0007-reverse-integer](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0066-plus-one) |
+| [0227-basic-calculator-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0319-bulb-switcher) |
@@ -309,6 +310,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0227-basic-calculator-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0409-longest-palindrome) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -321,6 +323,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0085-maximal-rectangle](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0227-basic-calculator-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
