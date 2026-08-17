@@ -27,6 +27,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -67,6 +68,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0066-plus-one](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0215-kth-largest-element-in-an-array) |
