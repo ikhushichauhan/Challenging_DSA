@@ -79,6 +79,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0287-find-the-duplicate-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0704-binary-search) |
@@ -201,6 +202,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0215-kth-largest-element-in-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -237,6 +239,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Prefix Sum
@@ -259,6 +262,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0011-container-with-most-water](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0455-assign-cookies) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -414,4 +418,8 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0022-generate-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
