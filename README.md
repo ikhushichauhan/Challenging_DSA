@@ -85,6 +85,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0704-binary-search](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
 | [0896-monotonic-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0896-monotonic-array) |
@@ -154,6 +155,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0287-find-the-duplicate-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3453-separate-squares-i](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/3453-separate-squares-i) |
