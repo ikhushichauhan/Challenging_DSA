@@ -47,6 +47,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0022-generate-parentheses](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0085-maximal-rectangle) |
+| [0322-coin-change](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -79,6 +80,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0239-sliding-window-maximum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0455-assign-cookies) |
@@ -185,6 +187,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0102-binary-tree-level-order-traversal](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0322-coin-change) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -427,4 +430,12 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0455-assign-cookies) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
