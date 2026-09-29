@@ -85,6 +85,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0349-intersection-of-two-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0724-find-pivot-index) |
@@ -210,6 +211,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -271,6 +273,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0334-increasing-triplet-subsequence](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0561-array-partition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -417,6 +420,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
