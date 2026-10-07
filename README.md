@@ -93,6 +93,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0840-magic-squares-in-grid](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0840-magic-squares-in-grid) |
+| [0860-lemonade-change](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -274,6 +275,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0409-longest-palindrome](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0860-lemonade-change) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
