@@ -27,6 +27,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0066-plus-one](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -388,6 +390,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0039-combination-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0090-subsets-ii) |
 ## Linked List
 |  |
 | ------- |
