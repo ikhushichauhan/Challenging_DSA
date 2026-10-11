@@ -68,6 +68,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0027-remove-element](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0085-maximal-rectangle) |
@@ -385,6 +386,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0077-combinations) |
 ## Linked List
 |  |
