@@ -385,6 +385,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0077-combinations) |
 ## Linked List
 |  |
 | ------- |
