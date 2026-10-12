@@ -89,6 +89,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0455-assign-cookies](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0724-find-pivot-index) |
@@ -278,6 +279,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0409-longest-palindrome](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0860-lemonade-change) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1975-maximum-matrix-sum) |
