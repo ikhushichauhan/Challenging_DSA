@@ -181,6 +181,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -194,6 +195,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -452,4 +454,12 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0322-coin-change) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
