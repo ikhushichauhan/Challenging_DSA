@@ -100,6 +100,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0860-lemonade-change](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0912-sort-an-array) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -287,6 +288,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0561-array-partition](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0860-lemonade-change) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -345,6 +347,7 @@ This repository is a personal coding journal where I solve one LeetCode problem 
 | [0394-decode-string](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0409-longest-palindrome) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2211-count-collisions-on-a-road](https://github.com/ikhushichauhan/Challenging_DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Stack
